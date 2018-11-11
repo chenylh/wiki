@@ -1,4 +1,4 @@
 1，建库脚本都在 activiti-engine-7.0.50.jar下
-2，入口类是ApplicationAutoConfiguration.java
+2，入口类是ApplicationAutoConfiguration.java和ProcessEngineImpl.java
 3，DbSchemaCreate、ProcessEngineConfigurationImpl流程引擎的配置类
 4，MultiSchemaMultiTenantProcessEngineConfiguration多租户Schema支撑入口
